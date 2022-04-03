@@ -1,4 +1,4 @@
-## Hey hi I'm Gabriel silva
+## Hey, hi I'm Gabriel Silva
 
 <div class="paineis-de-especificacoes">
   <a href="https://beacons.ai/Sloyxkira6">
