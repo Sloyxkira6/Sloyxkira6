@@ -76,52 +76,9 @@
   </div>
 
 
-<!---
-- 👋 Hi, I’m @Sloyxkira6
-- 👀 I’m interested in js, java, c++
-- 🌱 I’m currently learning to mobile develop with flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 
 Sloyxkira6/Sloyxkira6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-   </a>
-   <a href="https://www.youtube.com/channel/UCuepZUD5vQ_SHraUPv8M8bQ">
-   <img src="https://img.shields.io/badge/YOUTUBE-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"/>
-   </a>
-   
-  </div>
 
-
-<!---
-- 👋 Hi, I’m @Sloyxkira6
-- 👀 I’m interested in js, java, c++
-- 🌱 I’m currently learning to mobile develop with flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-Sloyxkira6/Sloyxkira6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-   </a>
-   <a href="https://www.youtube.com/channel/UCuepZUD5vQ_SHraUPv8M8bQ">
-   <img src="https://img.shields.io/badge/YOUTUBE-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"/>
-   </a>
-   
-  </div>
-
-
-<!---
-- 👋 Hi, I’m @Sloyxkira6
-- 👀 I’m interested in js, java, c++
-- 🌱 I’m currently learning to mobile develop with flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-Sloyxkira6/Sloyxkira6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
