@@ -1,7 +1,7 @@
 ## Hello, welcome! I'm Gabriel Silva
 
 <div class="paineis-de-especificacoes">
-  <a href="https://beacons.ai/gabrieldev6">
+  <a href="https://github.com/gabrieldev6">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldev6&show_icons=dark&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldev6&layout=compact&langs_count=16&theme=dark"/>
 </div>
